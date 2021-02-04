@@ -1,0 +1,128 @@
+{
+  "main": {
+    "name": "Arvinth",
+    "occupation": "JavaScript and Java Professional",
+    "description": "",
+    "image": "croppedProfilepic.jpg",
+    "bio": "Hi there! I am Arvinth! I've been coding for two years for now",
+    "contactmessage": "Get in touch with me",
+    "email": "arvinth8122@gmail.com",
+    "phone": "+91 9976250860",
+    "address": {
+      "street": "Dasarathapuram",
+      "city": "Chennai",
+      "state": "Tamilnadu",
+      "zip": "600005"
+    },
+    "website": "https://",
+    "resumedownload": "http://",
+    "social": [
+      {
+        "name": "youtube",
+        "url": "https://netflixclone-afdf3.web.app/",
+        "className": "fa fa-youtube"
+      },
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/3",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "Erode Builders Educational Trust",
+        "degree": "Bachelor's Degree, Mechanical Engineering",
+        "graduated": "July 2018",
+        "description": "Though I completed my degree in Mechanical stream, I changed my career because of my passion towards coding"
+      }
+    ],
+    "work": [
+      {
+        "company": "Ascendas",
+        "title": "Project team-player",
+        "years": "Jan 2021 - Present",
+        "description": "Working on the projects tied up with React JS, Express JS, Springboot currently"
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "70%"
+      },
+      {
+        "name": "Springboot",
+        "level": "60%"
+      },
+      {
+        "name": "Git",
+        "level": "70%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "70%"
+      },
+      {
+        "name": "Web Development",
+        "level": "95%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Netflix Clone (React JS)",
+        "category": "",
+        "image": "netflixClone.png",
+        "url": "https://netflixclone-afdf3.web.app/"
+      },
+      {
+        "title": "WhatsApp Clone (React JS)",
+        "category": "",
+        "image": "whatsappClone.png",
+        "url": "https://chatzzapp-3dd4c.firebaseapp.com/"
+      },
+      {
+        "title": "Quiz App (JS)",
+        "category": "",
+        "image": "Arvinthquizapp.png",
+        "url": ""
+      },
+      {
+        "title": "React Admin (React JS)",
+        "category": "",
+        "image": "materialUIReactAdmin.png",
+        "url": "https://admin-login-c0ea2.web.app/#/users"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Arvinth is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to us... I would definitely recommend",
+        "user": "Mr.ShivaKumar, MD -Ascendas"
+      },
+      {
+        "text": "Learning with Arvinth has been AWESOME, he makes learning React so easy and approachable, you'll finally feel like you know what's going on!",
+        "user": "Rajesh HR- Ascendas"
+      }
+    ]
+  }
+}
